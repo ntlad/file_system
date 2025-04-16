@@ -1,4 +1,4 @@
-# file_system
+# File system
 An application for interacting with and managing the file system.
 
 # Formulation
